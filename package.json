@@ -1,0 +1,12 @@
+{
+  "name": "usdt-listener",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "web3": "^4.0.3",
+    "mysql2": "^3.6.0"
+  }
+}
